@@ -1,7 +1,7 @@
 <img width="100%" height="400" src="https://media.tenor.com/0jI-YXeywSsAAAAM/nyan-cat-cat.gif">
 <h1 align="center">Hi 👋, I'm Ngan <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /></h1> 
 
--👩🏻‍💻 I'm a third-year student at Ton Duc Thang University.
+-👩🏻‍💻 I'm a fourth-year student at Ton Duc Thang University.
 
 <br>
 
