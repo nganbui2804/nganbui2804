@@ -19,7 +19,8 @@
 </p>
 
 ### :fire: My Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nganbui2804](http://github-readme-streak-stats.herokuapp.com/?user=nganbui2804&theme=dark&background=000000)"/>
+
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=nganbui2804&theme=dark&background=000000"/>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><b> Activities </b><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
