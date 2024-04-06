@@ -18,16 +18,15 @@
 </a>
 </p>
 
-
+### :fire: My Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nganbui2804](http://github-readme-streak-stats.herokuapp.com/?user=nganbui2804&theme=dark&background=000000)"/>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><b> Activities </b><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nganbui2804"/>
       <img src="https://github-readme-stats.vercel.app/api?username=nganbui2804&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="nganbui2804" width="100%"/>
-      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nganbui2804&theme=dark&background=000000)](https://git.io/streak-stats)
     </td>
     <td>
       <p align="center"> 
