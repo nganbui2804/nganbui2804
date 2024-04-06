@@ -25,8 +25,9 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nganbui2804&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="nganbui2804" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nganbui2804"/>
       <img src="https://github-readme-stats.vercel.app/api?username=nganbui2804&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="nganbui2804" width="100%"/>
+      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nganbui2804&theme=dark&background=000000)](https://git.io/streak-stats)
     </td>
     <td>
       <p align="center"> 
